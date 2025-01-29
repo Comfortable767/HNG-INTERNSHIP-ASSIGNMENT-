@@ -1,6 +1,7 @@
 # HNG-INTERNSHIP-ASSIGNMEN         I am going to examine the Retail Sales Data (Marketing-Focused) – Sample Supermarket Dataset.                                        
 
-Dataset Overview                                                      The dataset contains sales data for a supermarket chain, including information on:                                                      Order ID: Unique identifier for each order                                                         Product Name: Name of the product sold                                                              Quantity: Number of units sold
+Dataset Overview                                                      
+The dataset contains sales data for a supermarket chain, including information on:                                                      Order ID: Unique identifier for each order                                                         Product Name: Name of the product sold                                                              Quantity: Number of units sold
 
 Unit Price: Price per unit
 
